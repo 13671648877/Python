@@ -1,5 +1,5 @@
 """
-python入门
+python入门以后
 """
 import sys
 print("hello world!")
